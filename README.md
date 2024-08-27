@@ -1,5 +1,5 @@
 # calculator
-The Calculator App is a simple, user-friendly application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app is built with a minimalistic interface to ensure ease of use and quick calculations.
+The Calculator App is a simple, user-friendly application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The app is built with a minimalistic interface to ensure ease of use and quick calculations.
 
 #features
 Addition: Add two or more numbers.
@@ -11,7 +11,7 @@ Clear: Reset the current calculation.
 #MIT License
 Copyright (c) [2024] [Willy Havertz]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
+Permission is at this moment granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
